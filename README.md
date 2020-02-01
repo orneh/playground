@@ -1,5 +1,5 @@
-I will study Python and web developing.
 # Playground
+Henro studying CS.
 
 A place to play with `git`.
 
